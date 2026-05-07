@@ -9,8 +9,8 @@ Project ini dibuat untuk mengambil data ulasan aplikasi dari Google Play Store m
 
 Aplikasi yang digunakan:
 
-- **Nama aplikasi:** Aplikasi Pemerintahan
-- **App ID:** id.go.kemensos.pelaporan
+- **Nama aplikasi:** SI D'nOK - Kota Semarang
+- **App ID:** semarangkota.sidnok
 
 ## 🛠️ Library yang Digunakan
 
